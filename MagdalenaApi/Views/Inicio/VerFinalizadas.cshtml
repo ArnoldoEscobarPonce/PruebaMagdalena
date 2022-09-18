@@ -1,0 +1,98 @@
+﻿@model List<MagdalenaBE.ActividadBE>
+
+@{
+    Layout = null;
+}
+
+<!DOCTYPE html>
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>Finalizadas</title>
+    <style>
+        #registros {
+            font-family: Arial, Helvetica, sans-serif;
+            border-collapse: collapse;
+            width: 70%;
+        }
+
+            #registros td, #registros th {
+                border: 1px solid #ddd;
+                padding: 8px;
+            }
+
+            #registros tr:nth-child(even) {
+                background-color: #f2f2f2;
+            }
+
+            #registros tr:hover {
+                background-color: #ddd;
+            }
+
+            #registros th {
+                padding-top: 12px;
+                padding-bottom: 12px;
+                text-align: left;
+                background-color: #00498a;
+                color: white;
+            }
+    </style>
+
+</head>
+<body>
+    <div>
+        <hr />
+        @Html.ActionLink("Volver al Inicio", "Inicio")
+        <hr />
+        <br />
+        <h2>Actividades Finalizadas</h2>
+
+        <table id="registros">
+            <tr>
+                <th>
+                    @Html.DisplayNameFor(model => model.First().Id)
+                </th>
+                <th>
+                    @Html.DisplayNameFor(model => model.First().Descripcion)
+                </th>
+                <th>
+                    @Html.DisplayNameFor(model => model.First().FechaInicio)
+                </th>
+                <th>
+                    @Html.DisplayNameFor(model => model.First().FechaEnProceso)
+                </th>
+                <th>
+                    @Html.DisplayNameFor(model => model.First().FechaFinalizacion)
+                </th>
+                <th>
+                    @Html.DisplayNameFor(model => model.First().TareasRealizadas)
+                </th>
+            </tr>
+            @foreach (var item in Model)
+            {
+                <tr>
+                    <td>
+                        @Html.DisplayFor(modelItem => item.Id)
+                    </td>
+                    <td>
+                        @Html.DisplayFor(modelItem => item.Descripcion)
+                    </td>
+                    <td>
+                        @Html.DisplayFor(modelItem => item.FechaInicio)
+                    </td>
+                    <td>
+                        @Html.DisplayFor(modelItem => item.FechaEnProceso)
+                    </td>
+                    <td>
+                        @Html.DisplayFor(modelItem => item.FechaFinalizacion)
+                    </td>
+                    <td>
+                        @Html.DisplayFor(modelItem => item.TareasRealizadas)
+                    </td>
+                </tr>
+            }
+        </table>
+    </div>
+</body>
+</html>
