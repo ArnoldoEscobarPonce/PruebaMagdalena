@@ -1,0 +1,9 @@
+c:\users\administrador\documents\visual studio 2013\Projects\Prueba_Magdalena\MagdalenaBE\bin\Debug\MagdalenaBE.dll
+c:\users\administrador\documents\visual studio 2013\Projects\Prueba_Magdalena\MagdalenaBE\bin\Debug\MagdalenaBE.pdb
+c:\users\administrador\documents\visual studio 2013\Projects\Prueba_Magdalena\MagdalenaBE\obj\Debug\MagdalenaBE.csprojResolveAssemblyReference.cache
+c:\users\administrador\documents\visual studio 2013\Projects\Prueba_Magdalena\MagdalenaBE\obj\Debug\MagdalenaBE.dll
+c:\users\administrador\documents\visual studio 2013\Projects\Prueba_Magdalena\MagdalenaBE\obj\Debug\MagdalenaBE.pdb
+E:\CodigoFuente\Cod_SIF\Prueba_Magdalena\MagdalenaBE\bin\Debug\MagdalenaBE.dll
+E:\CodigoFuente\Cod_SIF\Prueba_Magdalena\MagdalenaBE\bin\Debug\MagdalenaBE.pdb
+E:\CodigoFuente\Cod_SIF\Prueba_Magdalena\MagdalenaBE\obj\Debug\MagdalenaBE.dll
+E:\CodigoFuente\Cod_SIF\Prueba_Magdalena\MagdalenaBE\obj\Debug\MagdalenaBE.pdb

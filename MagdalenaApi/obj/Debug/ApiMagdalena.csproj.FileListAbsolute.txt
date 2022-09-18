@@ -1,0 +1,59 @@
+c:\users\administrador\documents\visual studio 2013\Projects\Prueba_Magdalena\Prueba_Magdalena\bin\Prueba_Magdalena.dll.config
+c:\users\administrador\documents\visual studio 2013\Projects\Prueba_Magdalena\Prueba_Magdalena\bin\Prueba_Magdalena.dll
+c:\users\administrador\documents\visual studio 2013\Projects\Prueba_Magdalena\Prueba_Magdalena\bin\Prueba_Magdalena.pdb
+c:\users\administrador\documents\visual studio 2013\Projects\Prueba_Magdalena\Prueba_Magdalena\bin\MagdalenaBE.dll
+c:\users\administrador\documents\visual studio 2013\Projects\Prueba_Magdalena\Prueba_Magdalena\bin\Newtonsoft.Json.dll
+c:\users\administrador\documents\visual studio 2013\Projects\Prueba_Magdalena\Prueba_Magdalena\bin\System.Net.Http.Formatting.dll
+c:\users\administrador\documents\visual studio 2013\Projects\Prueba_Magdalena\Prueba_Magdalena\bin\System.Web.Helpers.dll
+c:\users\administrador\documents\visual studio 2013\Projects\Prueba_Magdalena\Prueba_Magdalena\bin\System.Web.Http.dll
+c:\users\administrador\documents\visual studio 2013\Projects\Prueba_Magdalena\Prueba_Magdalena\bin\System.Web.Http.WebHost.dll
+c:\users\administrador\documents\visual studio 2013\Projects\Prueba_Magdalena\Prueba_Magdalena\bin\System.Web.Mvc.dll
+c:\users\administrador\documents\visual studio 2013\Projects\Prueba_Magdalena\Prueba_Magdalena\bin\System.Web.Razor.dll
+c:\users\administrador\documents\visual studio 2013\Projects\Prueba_Magdalena\Prueba_Magdalena\bin\System.Web.Webpages.Deployment.dll
+c:\users\administrador\documents\visual studio 2013\Projects\Prueba_Magdalena\Prueba_Magdalena\bin\System.Web.Webpages.dll
+c:\users\administrador\documents\visual studio 2013\Projects\Prueba_Magdalena\Prueba_Magdalena\bin\System.Web.Webpages.Razor.dll
+c:\users\administrador\documents\visual studio 2013\Projects\Prueba_Magdalena\Prueba_Magdalena\bin\MagdalenaBE.pdb
+c:\users\administrador\documents\visual studio 2013\Projects\Prueba_Magdalena\Prueba_Magdalena\bin\System.Web.Razor.xml
+c:\users\administrador\documents\visual studio 2013\Projects\Prueba_Magdalena\Prueba_Magdalena\bin\System.Web.Webpages.xml
+c:\users\administrador\documents\visual studio 2013\Projects\Prueba_Magdalena\Prueba_Magdalena\bin\System.Web.Webpages.Deployment.xml
+c:\users\administrador\documents\visual studio 2013\Projects\Prueba_Magdalena\Prueba_Magdalena\bin\System.Web.Webpages.Razor.xml
+c:\users\administrador\documents\visual studio 2013\Projects\Prueba_Magdalena\Prueba_Magdalena\bin\System.Web.Helpers.xml
+c:\users\administrador\documents\visual studio 2013\Projects\Prueba_Magdalena\Prueba_Magdalena\bin\System.Web.Mvc.xml
+c:\users\administrador\documents\visual studio 2013\Projects\Prueba_Magdalena\Prueba_Magdalena\bin\Newtonsoft.Json.xml
+c:\users\administrador\documents\visual studio 2013\Projects\Prueba_Magdalena\Prueba_Magdalena\bin\System.Net.Http.Formatting.xml
+c:\users\administrador\documents\visual studio 2013\Projects\Prueba_Magdalena\Prueba_Magdalena\bin\System.Web.Http.xml
+c:\users\administrador\documents\visual studio 2013\Projects\Prueba_Magdalena\Prueba_Magdalena\bin\System.Web.Http.WebHost.xml
+c:\users\administrador\documents\visual studio 2013\Projects\Prueba_Magdalena\Prueba_Magdalena\obj\Debug\ApiMagdalena.csprojResolveAssemblyReference.cache
+c:\users\administrador\documents\visual studio 2013\Projects\Prueba_Magdalena\Prueba_Magdalena\obj\Debug\Prueba_Magdalena.dll
+c:\users\administrador\documents\visual studio 2013\Projects\Prueba_Magdalena\Prueba_Magdalena\obj\Debug\Prueba_Magdalena.pdb
+E:\CodigoFuente\Cod_SIF\Prueba_Magdalena\Prueba_Magdalena\bin\Prueba_Magdalena.dll.config
+E:\CodigoFuente\Cod_SIF\Prueba_Magdalena\Prueba_Magdalena\bin\Prueba_Magdalena.dll
+E:\CodigoFuente\Cod_SIF\Prueba_Magdalena\Prueba_Magdalena\bin\Prueba_Magdalena.pdb
+E:\CodigoFuente\Cod_SIF\Prueba_Magdalena\Prueba_Magdalena\bin\MagdalenaBE.dll
+E:\CodigoFuente\Cod_SIF\Prueba_Magdalena\Prueba_Magdalena\bin\Newtonsoft.Json.dll
+E:\CodigoFuente\Cod_SIF\Prueba_Magdalena\Prueba_Magdalena\bin\System.Net.Http.Formatting.dll
+E:\CodigoFuente\Cod_SIF\Prueba_Magdalena\Prueba_Magdalena\bin\System.Web.Helpers.dll
+E:\CodigoFuente\Cod_SIF\Prueba_Magdalena\Prueba_Magdalena\bin\System.Web.Http.dll
+E:\CodigoFuente\Cod_SIF\Prueba_Magdalena\Prueba_Magdalena\bin\System.Web.Http.WebHost.dll
+E:\CodigoFuente\Cod_SIF\Prueba_Magdalena\Prueba_Magdalena\bin\System.Web.Mvc.dll
+E:\CodigoFuente\Cod_SIF\Prueba_Magdalena\Prueba_Magdalena\bin\System.Web.Razor.dll
+E:\CodigoFuente\Cod_SIF\Prueba_Magdalena\Prueba_Magdalena\bin\System.Web.Webpages.Deployment.dll
+E:\CodigoFuente\Cod_SIF\Prueba_Magdalena\Prueba_Magdalena\bin\System.Web.Webpages.dll
+E:\CodigoFuente\Cod_SIF\Prueba_Magdalena\Prueba_Magdalena\bin\System.Web.Webpages.Razor.dll
+E:\CodigoFuente\Cod_SIF\Prueba_Magdalena\Prueba_Magdalena\bin\Microsoft.Web.Infrastructure.dll
+E:\CodigoFuente\Cod_SIF\Prueba_Magdalena\Prueba_Magdalena\bin\MagdalenaBE.pdb
+E:\CodigoFuente\Cod_SIF\Prueba_Magdalena\Prueba_Magdalena\bin\System.Web.Razor.xml
+E:\CodigoFuente\Cod_SIF\Prueba_Magdalena\Prueba_Magdalena\bin\System.Web.Webpages.xml
+E:\CodigoFuente\Cod_SIF\Prueba_Magdalena\Prueba_Magdalena\bin\System.Web.Webpages.Deployment.xml
+E:\CodigoFuente\Cod_SIF\Prueba_Magdalena\Prueba_Magdalena\bin\System.Web.Webpages.Razor.xml
+E:\CodigoFuente\Cod_SIF\Prueba_Magdalena\Prueba_Magdalena\bin\System.Web.Helpers.xml
+E:\CodigoFuente\Cod_SIF\Prueba_Magdalena\Prueba_Magdalena\bin\System.Web.Mvc.xml
+E:\CodigoFuente\Cod_SIF\Prueba_Magdalena\Prueba_Magdalena\bin\Newtonsoft.Json.xml
+E:\CodigoFuente\Cod_SIF\Prueba_Magdalena\Prueba_Magdalena\bin\System.Net.Http.Formatting.xml
+E:\CodigoFuente\Cod_SIF\Prueba_Magdalena\Prueba_Magdalena\bin\System.Web.Http.xml
+E:\CodigoFuente\Cod_SIF\Prueba_Magdalena\Prueba_Magdalena\bin\System.Web.Http.WebHost.xml
+E:\CodigoFuente\Cod_SIF\Prueba_Magdalena\Prueba_Magdalena\obj\Debug\ApiMagdalena.csprojResolveAssemblyReference.cache
+E:\CodigoFuente\Cod_SIF\Prueba_Magdalena\Prueba_Magdalena\obj\Debug\Prueba_Magdalena.dll
+E:\CodigoFuente\Cod_SIF\Prueba_Magdalena\Prueba_Magdalena\obj\Debug\Prueba_Magdalena.pdb
+E:\CodigoFuente\Cod_SIF\Prueba_Magdalena\Prueba_Magdalena\bin\System.Net.Http.Json.dll
+E:\CodigoFuente\Cod_SIF\Prueba_Magdalena\Prueba_Magdalena\bin\System.Net.Http.Json.xml
