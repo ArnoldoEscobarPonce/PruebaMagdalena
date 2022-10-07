@@ -7,3 +7,8 @@ E:\CodigoFuente\Cod_SIF\Prueba_Magdalena\MagdalenaBE\bin\Debug\MagdalenaBE.dll
 E:\CodigoFuente\Cod_SIF\Prueba_Magdalena\MagdalenaBE\bin\Debug\MagdalenaBE.pdb
 E:\CodigoFuente\Cod_SIF\Prueba_Magdalena\MagdalenaBE\obj\Debug\MagdalenaBE.dll
 E:\CodigoFuente\Cod_SIF\Prueba_Magdalena\MagdalenaBE\obj\Debug\MagdalenaBE.pdb
+E:\Codigo_Git\PruebaMagdalena\MagdalenaBE\bin\Debug\MagdalenaBE.dll
+E:\Codigo_Git\PruebaMagdalena\MagdalenaBE\bin\Debug\MagdalenaBE.pdb
+E:\Codigo_Git\PruebaMagdalena\MagdalenaBE\obj\Debug\MagdalenaBE.csprojResolveAssemblyReference.cache
+E:\Codigo_Git\PruebaMagdalena\MagdalenaBE\obj\Debug\MagdalenaBE.dll
+E:\Codigo_Git\PruebaMagdalena\MagdalenaBE\obj\Debug\MagdalenaBE.pdb

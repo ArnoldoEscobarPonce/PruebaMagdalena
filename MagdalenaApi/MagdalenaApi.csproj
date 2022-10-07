@@ -108,7 +108,6 @@
   <ItemGroup>
     <Content Include="Global.asax" />
     <None Include="Scripts\jquery-1.10.2.intellisense.js" />
-    <Content Include="Querys\Scripts_Oracle.sql" />
     <Content Include="Querys\Scripts_SQLServer.sql" />
     <Content Include="Scripts\jquery-1.10.2.js" />
     <Content Include="Scripts\jquery-1.10.2.min.js" />
@@ -124,8 +123,10 @@
   <ItemGroup>
     <Compile Include="App_Start\RouteConfig.cs" />
     <Compile Include="App_Start\WebApiConfig.cs" />
+    <Compile Include="Controllers\PrioridadController.cs" />
     <Compile Include="Controllers\ActividadController.cs" />
     <Compile Include="Controllers\InicioController.cs" />
+    <Compile Include="dal\PrioridadDAL.cs" />
     <Compile Include="dal\ActividadDAL.cs" />
     <Compile Include="dal\Context.cs">
       <DependentUpon>Context.dbml</DependentUpon>

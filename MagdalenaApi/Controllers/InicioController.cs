@@ -77,8 +77,33 @@ namespace Prueba_Magdalena.Controllers
         [HttpGet]
         public ActionResult NuevaActividad()
         {
-            var vNuevaActividad = new ActividadBE();
-            return View(vNuevaActividad);
+            try
+            {
+                List<PrioridadBE> vLista = new List<PrioridadBE>();
+                HttpClient _httpClient = new HttpClient();
+                var url = "http://localhost:54600/Api/Prioridad/";
+
+                using (var content = new StringContent(JsonConvert.SerializeObject(new ActividadBE()), System.Text.Encoding.UTF8, "application/json"))
+                {
+                    HttpResponseMessage result = _httpClient.GetAsync(url).Result;
+                    if (result.StatusCode == System.Net.HttpStatusCode.OK)
+                    {
+                        string jSon = result.Content.ReadAsStringAsync().Result;
+                        vLista = JsonConvert.DeserializeObject<List<PrioridadBE>>(jSon);
+                        ViewBag.ListaPrioridad = vLista;
+                    }
+                    else
+                        ViewBag.ListaPrioridad = new List<PrioridadBE>();
+                }
+
+                var vNuevaActividad = new ActividadBE();
+                return View(vNuevaActividad);
+            }
+            catch (Exception ex)
+            {
+                Response.Write(@"<script language='javascript'>alert('" + ex.Message + "');</script>");
+                return View();
+            }
         }
         [HttpPost]
         public ActionResult GrabarActividad(ActividadBE pActividad)

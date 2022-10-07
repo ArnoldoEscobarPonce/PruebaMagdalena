@@ -31,6 +31,12 @@
                 <dd>
                     @Html.TextBoxFor(model => model.FechaInicio, new { type = "date" })
                 </dd>
+                <dt>
+                    @Html.LabelFor(model => model.IdPrioridad)
+                </dt>
+                <dd>
+                    @Html.DropDownListFor(model => model.IdPrioridad, new SelectList(ViewBag.ListaPrioridad, "Id", "Descripcion" ))
+                </dd>
             </dl>
             <input type="submit" value="Crear Actividad" />
         </form>

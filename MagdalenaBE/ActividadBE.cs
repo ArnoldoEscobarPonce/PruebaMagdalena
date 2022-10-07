@@ -23,5 +23,7 @@ namespace MagdalenaBE
         [DisplayFormat(DataFormatString = "{0:d}")]
         public DateTime? FechaFinalizacion { get; set; }
         public string TareasRealizadas { get; set; }
+        [DisplayName("Prioridad")]
+        public int? IdPrioridad { get; set; }
     }
 }

@@ -136,6 +136,13 @@ namespace Prueba_Magdalena.dal
                 );
             return ((ISingleResult<ActividadBE>)result.ReturnValue);
         }
-	}
+
+        [Function(Name = "dbo.Sp_Prioridad_Listar")]
+        public ISingleResult<PrioridadBE> Prioridad_Listar()
+        {
+            IExecuteResult result = this.ExecuteMethodCall(this, ((MethodInfo)MethodInfo.GetCurrentMethod()));
+            return ((ISingleResult<PrioridadBE>)result.ReturnValue);
+        }
+    }
 }
 #pragma warning restore 1591
